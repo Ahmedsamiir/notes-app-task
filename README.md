@@ -1,16 +1,23 @@
 # notes_app_task
 
-A new Flutter project.
+ Notes App, is your one-stop solution for effortless note-taking and organization. Whether you're a student, professional, or creative thinker, the Notes App empowers you to capture, organize, and access your thoughts, ideas, and important information with simplicity and style.
 
-## Getting Started
+## Key Features 
+-  Homepage [Intuitive Note Creation]
+-  Note Creation/Edit Page
+-  Offline Access [Local Storage] using Hive
+-  State Management [Bloc]
+-  Code Quality
+-  Error Handling
+-  Animations
+-  Dark Mode
+-  Customization [Themes - Colors]
+  
+## Screenshots of App
+![11](https://github.com/Ahmedsamiir/notes-app-task/assets/54223782/8ac6b00b-1546-4172-bc2c-c24da482e473)
+![12](https://github.com/Ahmedsamiir/notes-app-task/assets/54223782/e006f6d9-617a-4af0-b8f1-0e00838c1f90)
+![13](https://github.com/Ahmedsamiir/notes-app-task/assets/54223782/746dcaff-5bee-4016-8382-bdc374bfdc03)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
